@@ -1,0 +1,9 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Order_Date,City
+101,Arjun,Laptop,Electronics,1,60000,2024-01-10,Kochi
+102,Meera,Headphones,Electronics,2,2000,2024-01-11,Calicut
+103,Rahul,Notebook,Stationery,5,50,2024-01-12,Trivandrum
+104,Anita,Pen,Stationery,10,20,2024-01-12,Kochi
+105,,Mouse,Electronics,1,500,2024-01-13,Calicut
+106,Vinay,Laptop,Electronics,1,60000,2024-01-14,
+107,Rahul,Notebook,Stationery,5,50,2024-01-12,Trivandrum
+108,Sneha,Keyboard,Electronics,1,1500,2024-01-15,Kochi
